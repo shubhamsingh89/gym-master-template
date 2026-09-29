@@ -199,6 +199,59 @@ Please share the available trial timings.`;
 
         }
 
+        // ==============================
+// TRANSFORMATION
+// ==============================
+
+if (gym.transformation) {
+
+    const beforeImage =
+        document.querySelector("#beforeImage");
+
+    const afterImage =
+        document.querySelector("#afterImage");
+
+    const member =
+        document.querySelector("#transformationMember");
+
+    const story =
+        document.querySelector("#transformationStory");
+
+    const duration =
+        document.querySelector("#transformationDuration");
+
+
+    if (beforeImage) {
+        beforeImage.src =
+            gym.transformation.beforeImage;
+    }
+
+
+    if (afterImage) {
+        afterImage.src =
+            gym.transformation.afterImage;
+    }
+
+
+    if (member) {
+        member.textContent =
+            `${gym.transformation.memberName}'s Transformation`;
+    }
+
+
+    if (story) {
+        story.textContent =
+            gym.transformation.story;
+    }
+
+
+    if (duration) {
+        duration.textContent =
+            gym.transformation.duration;
+    }
+
+}
+        
 
         console.log(
             "Gym data loaded:",
