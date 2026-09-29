@@ -28,6 +28,15 @@
 
   "freeTrial": true,
 
+  "transformation": {
+  "enabled": true,
+  "memberName": "Rahul",
+  "duration": "90 Days",
+  "beforeImage": "images/transformation-before.jpg",
+  "afterImage": "images/transformation-after.jpg",
+  "story": "I stayed consistent with my workouts and followed the guidance of my trainers. The journey helped me become stronger and more confident."
+  }
+
   "social": {
     "instagram": "",
     "facebook": "",
