@@ -1,0 +1,36 @@
+{
+  "gymName": "Fitness Track",
+  "tagline": "Transform Your Body. Transform Your Life.",
+  "phone": "91-9667200924",
+  "whatsapp": "919667200924",
+
+  "address": {
+    "line1": "Ganesh Complex, 1st Floor",
+    "line2": "Shalimar Garden Extension 1",
+    "landmark": "Opp. New Power House",
+    "city": "Sahibabad, Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201006"
+  },
+
+  "timings": {
+    "open": "5:00 AM",
+    "close": "11:00 PM"
+  },
+
+  "programs": [
+    "Strength Training",
+    "Cardio",
+    "CrossFit",
+    "Zumba",
+    "Personal Training"
+  ],
+
+  "freeTrial": true,
+
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "youtube": ""
+  }
+}
