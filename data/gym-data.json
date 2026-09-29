@@ -37,6 +37,41 @@
   "story": "I stayed consistent with my workouts and followed the guidance of my trainers. The journey helped me become stronger and more confident."
   }
 
+  ,
+"trainers": [
+  {
+    "name": "Amit Sharma",
+    "specialization": "Strength & Fitness Coach",
+    "experience": "8 Years",
+    "image": "images/trainer-1.jpg"
+  },
+  {
+    "name": "Rahul Singh",
+    "specialization": "Personal Training Coach",
+    "experience": "5 Years",
+    "image": "images/trainer-2.jpg"
+  }
+],
+
+"reviews": [
+  {
+    "name": "Member Name",
+    "rating": 5,
+    "text": "Great trainers, supportive environment and excellent equipment."
+  },
+  {
+    "name": "Member Name",
+    "rating": 5,
+    "text": "The trainers helped me stay consistent and focused on my goals."
+  }
+],
+
+"gallery": [
+  "images/gym-1.jpg",
+  "images/gym-2.jpg",
+  "images/gym-3.jpg"
+]
+
   "social": {
     "instagram": "",
     "facebook": "",
